@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/spring-00-Coupling/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-01-Core-IoC-Bean-Annotation/pom.xml" />
       </list>
     </option>
   </component>
